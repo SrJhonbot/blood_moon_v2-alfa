@@ -98,4 +98,4 @@ async def nuke(ctx):
 
 
 
-client.run(f"{token}",bot={q_self])
+client.run(f"{token}",bot=q_self)
